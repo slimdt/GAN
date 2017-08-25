@@ -13,4 +13,4 @@ The First paper
 Related Papers
 --------------------------------------------
 :white_check_mark: [Triple Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1703.02291)
-[[Code]]()()
+[[Code]](https://github.com/zhenxuan00/triple-gan)()
